@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duecoder
-- 👀 I’m interested in learning how to code full stack
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding full-stack/ or React/Next front-end
+- 🌱 I’m currently learning TypeScript and React
 - 💞️ I’m looking to collaborate on front-end devs
 - 📫 How to reach me: instagram @dueprod
 
