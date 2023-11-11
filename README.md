@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @duecoder
-- 👀 I’m interested in coding full-stack/ or React/Next front-end
-- 🌱 I’m currently learning TypeScript and React
-- 💞️ I’m looking to collaborate on front-end devs
+- 👀 I’m interested in coding full stack applications
+- 🌱 I’m currently especializing on Spring and Angular
 - 📫 How to reach me: instagram @dueprod
 
 <!---
