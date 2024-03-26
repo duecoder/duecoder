@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duecoder
 - 👀 I’m interested in coding full stack applications
-- 🌱 I’m currently especializing on Spring and Angular
+- 🌱 I do like coding with Spring and Angular
 - 📫 How to reach me: instagram @dueprod
 
 <!---
